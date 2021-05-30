@@ -15,15 +15,13 @@
   ],
   "attributes": [
     {
-      "type": "property",
-      "name": "Date",
-      "value": "2",
-      "traitType": "Drop",
-      "trait_type": "Drop"
+      "display_type": "number", 
+      "trait_type": "Drop", 
+      "value": 2
     }
   ],
   "contract": {
-    "address": "0x765a6c174202a78561c986684df1004cbf38faeb",
+    "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
     "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png",
@@ -34,16 +32,23 @@
     "external_link": "http://bit.ly/NFT-Arena",
     "externalUrl": "http://bit.ly/NFT-Arena",
     "external_url": "http://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "display_type": "number", 
+        "trait_type": "Drop", 
+        "value": 2
+      }
+    ],
     "media": [
       {
-        "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png"
+        "type": "video",
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.mp4"
       }
     ],
     "type": "ERC_1155"
   },
   "asset_contract": {
-    "address": "0x765a6c174202a78561c986684df1004cbf38faeb",
+    "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
     "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png",
@@ -54,10 +59,17 @@
     "external_link": "http://bit.ly/NFT-Arena",
     "externalUrl": "http://bit.ly/NFT-Arena",
     "external_url": "http://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "display_type": "number", 
+        "trait_type": "Drop", 
+        "value": 2
+      }
+    ],
     "media": [
       {
-        "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png"
+        "type": "video",
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.mp4"
       }
     ],
     "type": "ERC_1155"
