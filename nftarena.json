@@ -1,9 +1,9 @@
 {
   "name": "NFT Arena",
   "description": "CryptoArena is announcing our upcoming NFT Arena trading card game. You'll be able to turn your own NFTs into cards and battle opponents for fun, competition, or high stakes rewards... while winning $CATS and NFTs along the way! Visit http://bit.ly/NFT-Arena to learn about NFT Arena, https://bit.ly/3fS5awH to learn about the first self-decentralizing exchange built to return profits to its users, https://bit.ly/catsusecase for $CATS utility, and talk to us! Twitter: https://bit.ly/3h8WAdo | Telegram: http://bit.ly/CATelegram | Discord: https://bit.ly/3dRA8mZ",
-  "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
-  "imagePreview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
-  "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-thumbnail.gif",
+  "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
+  "imagePreview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png",
+  "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.png",
   "backgroundColor": "#000000",
   "background_color": "#000000",
   "externalUrl": "http://bit.ly/NFT-Arena",
@@ -22,18 +22,27 @@
     "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
-    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
-    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
-    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
+    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
+    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
+    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
     "description": "CryptoArena is announcing our upcoming NFT Arena trading card game. You'll be able to turn your own NFTs into cards and battle opponents for fun, competition, or high stakes rewards... while winning $CATS and NFTs along the way! Visit http://bit.ly/NFT-Arena to learn about NFT Arena, https://bit.ly/3fS5awH to learn about the first self-decentralizing exchange built to return profits to its users, https://bit.ly/catsusecase for $CATS utility, https://bit.ly/3oBD2An to learn about the largest NFT airdrop ever, and talk to us! Twitter: https://bit.ly/3h8WAdo | Telegram: http://bit.ly/CATelegram | Discord: https://bit.ly/3dRA8mZ",
     "externalLink": "http://bit.ly/NFT-Arena",
     "external_link": "http://bit.ly/NFT-Arena",
     "externalUrl": "http://bit.ly/NFT-Arena",
     "external_url": "http://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "display_type": "number",
+        "name": "Date",
+        "traitType": "Drop",
+        "trait_type": "Drop", 
+        "value": 2
+      }
+    ],
     "media": [
       {
         "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif"
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif"
       }
     ],
     "type": "ERC_1155"
@@ -42,18 +51,27 @@
     "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
-    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
-    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
-    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif",
+    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
+    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
+    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
     "description": "CryptoArena is announcing our upcoming NFT Arena trading card game. You'll be able to turn your own NFTs into cards and battle opponents for fun, competition, or high stakes rewards... while winning $CATS and NFTs along the way! Visit http://bit.ly/NFT-Arena to learn about NFT Arena, https://bit.ly/3fS5awH to learn about the first self-decentralizing exchange built to return profits to its users, https://bit.ly/catsusecase for $CATS utility, https://bit.ly/3oBD2An to learn about the largest NFT airdrop ever, and talk to us! Twitter: https://bit.ly/3h8WAdo | Telegram: http://bit.ly/CATelegram | Discord: https://bit.ly/3dRA8mZ",
     "externalLink": "http://bit.ly/NFT-Arena",
     "external_link": "http://bit.ly/NFT-Arena",
     "externalUrl": "http://bit.ly/NFT-Arena",
     "external_url": "http://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "display_type": "number",
+        "name": "Date",
+        "traitType": "Drop",
+        "trait_type": "Drop", 
+        "value": 2
+      }
+    ],
     "media": [
       {
         "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena.gif"
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif"
       }
     ],
     "type": "ERC_1155"
