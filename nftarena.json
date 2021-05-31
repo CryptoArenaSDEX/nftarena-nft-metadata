@@ -19,7 +19,7 @@
     }
   ],
   "contract": {
-    "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
+    "address": "0xCd23a7cE0fe21a57aDDFBB11d39a977995853394",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
     "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
@@ -48,7 +48,7 @@
     "type": "ERC_1155"
   },
   "asset_contract": {
-    "address": "0xdb56a1664278adba87ca9ea64ee95f32a2cb642b",
+    "address": "0xCd23a7cE0fe21a57aDDFBB11d39a977995853394",
     "name": "NFT Arena",
     "symbol": "NFTARENA",
     "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/nftarena-medium.gif",
