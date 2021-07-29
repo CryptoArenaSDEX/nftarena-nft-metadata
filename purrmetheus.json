@@ -1,0 +1,122 @@
+{
+  "name": "Purrmetheus",
+  "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+  "chain": "MATIC",
+  "symbol": "PURRMETHEUS",
+  "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+  "imagePreview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+  "image_preview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+  "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+  "image_thumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+  "backgroundColor": "#000000",
+  "background_color": "#000000",
+  "externalUrl": "https://bit.ly/NFT-Arena",
+  "external_url": "https://bit.ly/NFT-Arena",
+  "animationUrls": [],
+  "attributes": [
+    {
+      "displayType": "property",
+      "display_type": "property",
+      "type": "property",
+      "name": "Class",
+      "traitType": "Class",
+      "trait_type": "Class",
+      "value": "Tank"
+    },
+    {
+      "displayType": "boost",
+      "display_type": "boost",
+      "type": "boost",
+      "name": "Stamina",
+      "traitType": "Stamina",
+      "trait_type": "Stamina",
+      "value": "+1"
+    },
+    {
+      "displayType": "property",
+      "display_type": "property",
+      "type": "property",
+      "name": "Artist",
+      "traitType": "Artist",
+      "trait_type": "Artist",
+      "value": "nattorare"
+    },
+    {
+      "displayType": "number",
+      "display_type": "number",
+      "name": "Drop",
+      "traitType": "Drop",
+      "trait_type": "Drop", 
+      "value": 3
+    }
+  ],
+  "contract": {
+    "address": "0xCd23a7cE0fe21a57aDDFBB11d39a977995853394",
+    "name": "Purrmetheus",
+    "symbol": "PURRMETHEUS",
+    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imagePreview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_preview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_thumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+    "externalLink": "https://bit.ly/NFT-Arena",
+    "external_link": "https://bit.ly/NFT-Arena",
+    "externalUrl": "https://bit.ly/NFT-Arena",
+    "external_url": "https://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "displayType": "number",
+        "display_type": "number",
+        "name": "Drop",
+        "traitType": "Drop",
+        "trait_type": "Drop", 
+        "value": 3
+      }
+    ],
+    "media": [
+      {
+        "type": "unknown",
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
+      }
+    ],
+    "type": "ERC_1155"
+  },
+  "asset_contract": {
+    "address": "0xCd23a7cE0fe21a57aDDFBB11d39a977995853394",
+    "name": "Purrmetheus",
+    "symbol": "PURRMETHEUS",
+    "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imageUrl": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_url": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imagePreview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_preview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "image_thumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
+    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+    "externalLink": "https://bit.ly/NFT-Arena",
+    "external_link": "https://bit.ly/NFT-Arena",
+    "externalUrl": "https://bit.ly/NFT-Arena",
+    "external_url": "https://bit.ly/NFT-Arena",
+    "attributes": [
+      {
+        "displayType": "number",
+        "display_type": "number",
+        "name": "Drop",
+        "traitType": "Drop",
+        "trait_type": "Drop", 
+        "value": 3
+      }
+    ],
+    "media": [
+      {
+        "type": "unknown",
+        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
+      }
+    ],
+    "type": "ERC_1155"
+  },
+  "fungible": false
+}
