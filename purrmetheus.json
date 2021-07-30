@@ -1,6 +1,6 @@
 {
   "name": "Purrmetheus",
-  "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+  "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf.\n\nNFT Arena is a PvP trading card game: beat your opponents and claim their NFT or join competitions and win a share of the $CATS prize pool. Come find us to learn more!\n\n~Art by Nattorare",
   "chain": "MATIC",
   "symbol": "PURRMETHEUS",
   "image": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
@@ -13,8 +13,7 @@
   "externalUrl": "https://bit.ly/NFT-Arena",
   "external_url": "https://bit.ly/NFT-Arena",
   "animationUrls": [],
-  "attributes": [
-    {
+  "attributes": [{
       "displayType": "property",
       "display_type": "property",
       "type": "property",
@@ -46,7 +45,7 @@
       "display_type": "number",
       "name": "Drop",
       "traitType": "Drop",
-      "trait_type": "Drop", 
+      "trait_type": "Drop",
       "value": 3
     }
   ],
@@ -61,27 +60,23 @@
     "image_preview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
     "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
     "image_thumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
-    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf.\n\nNFT Arena is a PvP trading card game: beat your opponents and claim their NFT or join competitions and win a share of the $CATS prize pool. Come find us to learn more!\n\n~Art by Nattorare",
     "externalLink": "https://bit.ly/NFT-Arena",
     "external_link": "https://bit.ly/NFT-Arena",
     "externalUrl": "https://bit.ly/NFT-Arena",
     "external_url": "https://bit.ly/NFT-Arena",
-    "attributes": [
-      {
-        "displayType": "number",
-        "display_type": "number",
-        "name": "Drop",
-        "traitType": "Drop",
-        "trait_type": "Drop", 
-        "value": 3
-      }
-    ],
-    "media": [
-      {
-        "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
-      }
-    ],
+    "attributes": [{
+      "displayType": "number",
+      "display_type": "number",
+      "name": "Drop",
+      "traitType": "Drop",
+      "trait_type": "Drop",
+      "value": 3
+    }],
+    "media": [{
+      "type": "unknown",
+      "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
+    }],
     "type": "ERC_1155"
   },
   "asset_contract": {
@@ -95,27 +90,23 @@
     "image_preview": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
     "imageThumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
     "image_thumbnail": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif",
-    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf. NFT Arena is a PvP trading card game: beat your opponents and claim their NFT, or join competitions and win a share of the $CATS prize pool. Come find us to learn more!",
+    "description": "Meet Purrmetheus, one of the chosen five to battle in CryptoArena's NFT Arena on your behalf.\n\nNFT Arena is a PvP trading card game: beat your opponents and claim their NFT or join competitions and win a share of the $CATS prize pool. Come find us to learn more!\n\n~Art by Nattorare",
     "externalLink": "https://bit.ly/NFT-Arena",
     "external_link": "https://bit.ly/NFT-Arena",
     "externalUrl": "https://bit.ly/NFT-Arena",
     "external_url": "https://bit.ly/NFT-Arena",
-    "attributes": [
-      {
-        "displayType": "number",
-        "display_type": "number",
-        "name": "Drop",
-        "traitType": "Drop",
-        "trait_type": "Drop", 
-        "value": 3
-      }
-    ],
-    "media": [
-      {
-        "type": "unknown",
-        "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
-      }
-    ],
+    "attributes": [{
+      "displayType": "number",
+      "display_type": "number",
+      "name": "Drop",
+      "traitType": "Drop",
+      "trait_type": "Drop",
+      "value": 3
+    }],
+    "media": [{
+      "type": "unknown",
+      "value": "https://raw.githubusercontent.com/CryptoArenaSDEX/nftarena-nft-metadata/master/purrmetheus.gif"
+    }],
     "type": "ERC_1155"
   },
   "fungible": false
